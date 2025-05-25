@@ -78,6 +78,8 @@ pnpm dev
 ```
 
 应用将在 http://localhost:3000 启动
+## 🌍 Cloudflare Pages 部署
+需要在部署时添加环境变量`NODE_VERSION=20`
 
 ## 🎯 使用指南
 
